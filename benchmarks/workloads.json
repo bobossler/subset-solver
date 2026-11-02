@@ -1,0 +1,61 @@
+{
+  "seed": 20261102,
+  "workloads": [
+    {
+      "name": "small",
+      "file": "data/small.txt",
+      "n": 12,
+      "target": "300",
+      "core_iterations": 50
+    },
+    {
+      "name": "medium",
+      "file": "data/medium.txt",
+      "n": 24,
+      "target": "68571",
+      "core_iterations": 5
+    },
+    {
+      "name": "large_search",
+      "file": "data/large_search.txt",
+      "n": 36,
+      "target": "12617136",
+      "core_iterations": 2
+    },
+    {
+      "name": "large_values",
+      "file": "data/large_values.txt",
+      "n": 30,
+      "target": "1500000006879033822",
+      "core_iterations": 3
+    },
+    {
+      "name": "few_fit",
+      "file": "data/few_fit.txt",
+      "n": 36,
+      "target": "98046",
+      "core_iterations": 30
+    },
+    {
+      "name": "most_fit",
+      "file": "data/most_fit.txt",
+      "n": 30,
+      "target": "15393088",
+      "core_iterations": 2
+    },
+    {
+      "name": "large_list_all_fit",
+      "file": "data/large_list_all_fit.txt",
+      "n": 10000,
+      "target": "5009284402",
+      "core_iterations": 20
+    },
+    {
+      "name": "large_list_small_target",
+      "file": "data/large_list_small_target.txt",
+      "n": 10000,
+      "target": "10",
+      "core_iterations": 30
+    }
+  ]
+}

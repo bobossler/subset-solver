@@ -1,0 +1,5 @@
+/go/solver
+/rust/target/
+__pycache__/
+*.pyc
+/benchmarks/bin/
