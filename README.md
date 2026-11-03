@@ -1,6 +1,6 @@
 # Optimal subset selection
 
-Three independent, standard-library CLI implementations select an exact subset of unique positive integers. They maximize item count, then sum without exceeding the target, then prefer the lexicographically smallest original-index sequence. Selected values retain input order.
+I have setup this repository as a test and learning exercise for coding with the help of AI. In this example, I am using codex with the fresh editor to build the same command line utility within three different languages: Go, Python, and Rust. The purpose is to build three independent, standard-library CLI implementations to select an exact subset of unique positive integers. They maximize item count, then sum without exceeding the target, then prefer the lexicographically smallest original-index sequence. Selected values retain input order.
 
 ## Requirements and execution
 
